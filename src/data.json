@@ -1,0 +1,65 @@
+[
+    {
+        "url": "https://images.pexels.com/photos/1366919/pexels-photo-1366919.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "category": "Nature",
+        "tags": [
+            "trees",
+            "landscape",
+            "forest"
+        ]
+    },
+    {
+        "url": "https://images.pexels.com/photos/775201/pexels-photo-775201.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "category": "Nature",
+        "tags": [
+            "trees",
+            "landscape",
+            "forest"
+        ]
+    },
+    {
+        "url": "https://images.pexels.com/photos/1671325/pexels-photo-1671325.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "category": "Nature",
+        "tags": [
+            "trees",
+            "landscape",
+            "forest"
+        ]
+    },
+    {
+        "url": "https://images.pexels.com/photos/2129796/pexels-photo-2129796.png?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "category": "City",
+        "tags": [
+            "urban",
+            "buildings",
+            "street"
+        ]
+    },
+    {
+        "url": "https://images.pexels.com/photos/1108099/pexels-photo-1108099.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "category": "Animals",
+        "tags": [
+            "dogs",
+            "pets",
+            "playful"
+        ]
+    },
+    {
+        "url": "https://images.pexels.com/photos/1805164/pexels-photo-1805164.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "category": "Animals",
+        "tags": [
+            "dogs",
+            "pets",
+            "playful"
+        ]
+    },
+    {
+        "url": "https://images.pexels.com/photos/1170986/pexels-photo-1170986.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "category": "Animals",
+        "tags": [
+            "cat",
+            "pets",
+            "playful"
+        ]
+    }
+]
